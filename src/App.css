@@ -3,6 +3,7 @@
 }
 
 .App-logo {
+  width: 200px;
   height: 40vmin;
   pointer-events: none;
 }
@@ -35,4 +36,22 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+@media (min-width: 320px) and (max-width: 480px){
+  .App-logo {
+    margin-bottom:70px;
+    width: 100px;
+  }
+  h3{
+    text-wrap: balance;
+  }
+  
+}
+@media (max-width: 768px){
+  .App-logo {
+    margin-bottom:100px;
+    width: 150px;
+  }
+   
 }
