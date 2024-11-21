@@ -15,8 +15,11 @@ This application is a user-friendly password generator designed to operate acros
 
 ## 🚀Usage
 <ol>
-    <li></li>
+    <li>Generating Passwords</li>
+	<p>Click generate button in order to get a safe and complex password.</p>
     <br>
+    <li>Deleting Passwords</li>
+	<p>To clear, click delete button.</p>
 </ol>
 
 ## 🤝 Contributing
