@@ -14,50 +14,10 @@ This application is a user-friendly password generator designed to operate acros
 
 
 ## 🚀Usage
-### Generating a Password
 <ol>
-  <li></li>
-  <ul>
     <li></li>
     <br>
-    
-    
-  </ul>
-  <br>
-  <li></li>
-  <ul>
-    <li></li>
-    <br>
-   
-  </ul>
-  <br>
-  <li></li>
-  <ul>
-    <li></li>
-    <br>
-   
-  </ul>
-  <br>
-  <li></li>
-  <ul>
-    <li></li>
-    <br>
-    <
-  </ul>
-  <br>
-   <li></li>
-  <ul>
-    <li></li>
-    <br>
-    <br>
-    <li></li>
-    <br>
-   
-  </ul>
-  <br>
-  
 </ol>
-
 
 ## 🤝 Contributing
 <ul>
@@ -83,7 +43,6 @@ This application is a user-friendly password generator designed to operate acros
   </li>
 </ul>
 
-## 🧪 Testing
 
 ## 🛠️ Deployment
 I deployed the Password Generator using Vercel, which offers an intuitive interface for deploying web applications.
