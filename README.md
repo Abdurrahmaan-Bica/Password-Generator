@@ -9,7 +9,7 @@ This application is a user-friendly password generator designed to operate acros
 <ul>
   <li>Responsive Design: Adapts to different screen sizes to provide optimal usability.</li>
   <li>User-Friendly Interface: Clean and responsive design with easy-to-understand form inputs and clear password output.</li>
-  <li></li>
+  <li>Delete Password: Easily delete generated password.</li>
 </ul>
 
 
